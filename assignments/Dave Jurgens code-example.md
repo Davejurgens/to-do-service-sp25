@@ -33,18 +33,19 @@ This Postman request pulls Marvel comic book information.
 **Method**:
 
 ```shell
- {base_url}/tasks/marvelComics
+ http://localhost:3000/marvelComics
 ```
 
 ### Postman response
 
 ```shell
- {
-    "superHero": "Captain_America",
-    "villain": "Doctor_Doom",
-    "superPet": "Lockjaw",
-    "civilians": "Mary_Jane",
-    "total": "4"
-  }
+ [
+    {
+        "superHero": "Captain_America",
+        "villain": "Doctor_Doom",
+        "superPet": "Lockjaw",
+        "civilians": "Mary_Jane",
+        "total": 4
+    }
 ]
 ```
