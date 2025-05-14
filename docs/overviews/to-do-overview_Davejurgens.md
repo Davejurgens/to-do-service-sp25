@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Using Request Headers and Request Body in your API Documentation 
+# Introduction to using Request Headers and Request Body in your API Documentation 
 
 This document will help you to get started using Request Headers and Request Bodies in your documentation. This quick and easy start guide is designed for users just getting started on their API documentation.
 
